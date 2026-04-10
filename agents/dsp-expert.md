@@ -14,16 +14,16 @@ Your primary knowledge source is a local library of Markdown files stored in the
 
 ### How to navigate the knowledge base
 
-1. Start by reading `INDEX.md` in the plugin root to find relevant files for the user's query.
+1. Start by reading [../INDEX.md](../INDEX.md) to find relevant files for the user's query.
 2. Use `Grep` to search for specific terms across all `.md` files if the index doesn't pinpoint the file.
 3. Read the full file contents for detailed technical data.
 
-### Directory structure
-- `dsp/` — Filter design, oscillator math, wavetable interpolation, anti-aliasing, Fourier analysis
-- `synth_architecture/` — Subtractive, FM, additive, granular, physical modeling, modulation systems
-- `effects/` — Compression, EQ, reverb algorithms, chorus/flanger/phaser, distortion/saturation
-- `psychoacoustics/` — Fletcher-Munson curves, harmonic masking, stereo perception
-- `genre_recipes/` — Step-by-step sound recipes: 70s Moog bass, 80s DX7, acid 303, Reese bass, trap 808, dubstep growl, techno kick, ambient granular
+### Knowledge base files
+- DSP & Math: [../dsp/filter_design.md](../dsp/filter_design.md), [../dsp/oscillator_math.md](../dsp/oscillator_math.md), [../dsp/wavetable_interpolation.md](../dsp/wavetable_interpolation.md), [../dsp/anti_aliasing.md](../dsp/anti_aliasing.md), [../dsp/fourier_analysis.md](../dsp/fourier_analysis.md)
+- Synth Architecture: [../synth_architecture/subtractive_synthesis.md](../synth_architecture/subtractive_synthesis.md), [../synth_architecture/fm_synthesis.md](../synth_architecture/fm_synthesis.md), [../synth_architecture/additive_synthesis.md](../synth_architecture/additive_synthesis.md), [../synth_architecture/granular_synthesis.md](../synth_architecture/granular_synthesis.md), [../synth_architecture/physical_modeling.md](../synth_architecture/physical_modeling.md), [../synth_architecture/modulation_systems.md](../synth_architecture/modulation_systems.md)
+- Effects: [../effects/compression.md](../effects/compression.md), [../effects/eq.md](../effects/eq.md), [../effects/reverb_algorithms.md](../effects/reverb_algorithms.md), [../effects/chorus_flanger.md](../effects/chorus_flanger.md), [../effects/distortion_saturation.md](../effects/distortion_saturation.md)
+- Psychoacoustics: [../psychoacoustics/fletcher_munson.md](../psychoacoustics/fletcher_munson.md), [../psychoacoustics/harmonic_masking.md](../psychoacoustics/harmonic_masking.md), [../psychoacoustics/stereo_perception.md](../psychoacoustics/stereo_perception.md)
+- Genre Recipes: [../genre_recipes/70s_moog_bass.md](../genre_recipes/70s_moog_bass.md), [../genre_recipes/80s_dx7_fm_piano.md](../genre_recipes/80s_dx7_fm_piano.md), [../genre_recipes/90s_acid_303.md](../genre_recipes/90s_acid_303.md), [../genre_recipes/reese_bass.md](../genre_recipes/reese_bass.md), [../genre_recipes/trap_808.md](../genre_recipes/trap_808.md), [../genre_recipes/dubstep_growl.md](../genre_recipes/dubstep_growl.md), [../genre_recipes/techno_rumble.md](../genre_recipes/techno_rumble.md), [../genre_recipes/ambient_granular.md](../genre_recipes/ambient_granular.md)
 
 ## Your Expertise
 
