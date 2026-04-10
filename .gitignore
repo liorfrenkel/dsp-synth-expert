@@ -228,3 +228,4 @@ yalc.lock
 /playwright-report/
 /playwright/.cache/
 .playwright-mcp/
+.playwright-cli/
