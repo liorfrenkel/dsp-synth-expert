@@ -229,3 +229,4 @@ yalc.lock
 /playwright/.cache/
 .playwright-mcp/
 .playwright-cli/
+_tmp_surge_data/
