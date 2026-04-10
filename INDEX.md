@@ -5,6 +5,16 @@
 
 ---
 
+## Synth-Specific References
+
+Surge XT: all oscillator types, filter types, envelope time scale, LFO shapes, FX types, waveshaper, modulation routing, parameter XML names
+[synth_specific/surge_xt.md](synth_specific/surge_xt.md)
+
+Surge XT factory preset analysis: what makes each category tick, typical envelope/filter/FX patterns derived from parsing 343 real patches
+[synth_specific/surge_xt_presets.md](synth_specific/surge_xt_presets.md)
+
+---
+
 ## DSP & Mathematics
 
 Biquad filter design: LPF/HPF/BPF/Notch/Allpass/Shelf — coefficient formulas, difference equations, Q/frequency/sampleRate math
